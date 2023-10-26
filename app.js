@@ -7,6 +7,7 @@ var mydataRouter = require('./routes/mydata');
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
+var computationRouter = require('./routes/computation');
 
 var app = express();
 
